@@ -1,12 +1,15 @@
+<!-- Ethereal "Aura" Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient:C9B1FF,93C5FD,F9A8D4&text=&section=header" width="100%" />
+
 <div align="center">
-  <!-- Super aesthetic, minimal name -->
+  <!-- Clean, minimal name -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=45&duration=1&pause=1&color=38BDF8&center=true&vCenter=true&width=150&lines=yuro" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=45&duration=1&pause=1&color=C9B1FF&center=true&vCenter=true&width=150&lines=yuro" />
   </h1>
   
-  <!-- Clean, subtle tagline -->
+  <!-- Static, non-blinking tagline -->
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=18&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=hacking+reasoning;math+%E2%80%A2+research+%E2%80%A2+implementation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=18&duration=1&pause=1&color=94A3B8&center=true&vCenter=true&width=600&cursor=false&lines=hacking+reasoning+・+math+・+research+・+implementation" />
   </p>
   
   <br>
@@ -22,17 +25,17 @@
 <div align="center">
   <!-- Modern, borderless "Currently" section -->
   <h2>
-    <img src="https://img.shields.io/badge/◉-CURRENTLY-38BDF8?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/◉-CURRENTLY-C9B1FF?style=for-the-badge&labelColor=0d1117" />
   </h2>
   
   <br>
   
-  <!-- "Hot" modern text using crisp monospace rendering -->
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=1&color=E2E8F0&center=true&vCenter=true&width=450&lines=Sample+Efficiency+Optimization" />
+  <!-- Fixed: Standard markdown ensures "Sample" never gets cut off, looks cleaner -->
+  <h3 style="color: #E2E8F0; font-family: 'JetBrains Mono', monospace; letter-spacing: 1px;">
+    Sample Efficiency Optimization
   </h3>
   
-  <p>
+  <p style="color: #94A3B8;">
     <samp>reducing computational overhead while maximizing model performance</samp>
   </p>
 </div>
@@ -42,7 +45,7 @@
 <div align="center">
   <!-- Clean Arsenal section -->
   <h2>
-    <img src="https://img.shields.io/badge/◆-ARSENAL-8B5CF6?style=for-the-badge&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/◆-ARSENAL-93C5FD?style=for-the-badge&labelColor=0d1117" />
   </h2>
   
   <br>
@@ -54,13 +57,12 @@
         <br><samp>PyTorch</samp>
       </td>
       <td align="center" width="100">
-        <!-- Repaired, ultra-clean Linux icon -->
         <img src="https://cdn.simpleicons.org/linux" width="55" height="55" alt="Linux" />
         <br><samp>Linux</samp>
       </td>
       <td align="center" width="100">
-        <!-- Minimalist Math icon -->
-        <img src="https://img.shields.io/badge/∑-Math-8B5CF6?style=flat-square&labelColor=0d1117" width="55" height="55" alt="Mathematics" />
+        <!-- Minimal, non-performative Math icon (clean infinity symbol) -->
+        <img src="https://img.shields.io/badge/∞-Math-93C5FD?style=flat-square&labelColor=0d1117&logo=none" width="55" height="55" alt="Mathematics" />
         <br><samp>Mathematics</samp>
       </td>
     </tr>
@@ -80,12 +82,12 @@
   <br>
   
   <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=yuro-py&style=flat-square&color=38BDF8&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=yuro-py&style=flat-square&color=C9B1FF&labelColor=0d1117" />
   
   <br><br>
   
   <!-- Sleek portfolio link -->
   <a href="https://yuro-py.github.io/index.html">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=38BDF8&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=C9B1FF&labelColor=0d1117" />
   </a>
 </div>
