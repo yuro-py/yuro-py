@@ -1,62 +1,67 @@
 <div align="center">
+  <!-- Super aesthetic, minimal name -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=hacking+reasoning;math+%E2%80%A2+research+%E2%80%A2+implementation;sample+efficiency+optimization" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=45&duration=1&pause=1&color=38BDF8&center=true&vCenter=true&width=150&lines=yuro" />
   </h1>
   
-  <p align="center">
-    <kbd>🇮🇳</kbd> &nbsp; <samp>21</samp>
+  <!-- Clean, subtle tagline -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=18&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=600&lines=hacking+reasoning;math+%E2%80%A2+research+%E2%80%A2+implementation" />
   </p>
   
   <br>
   
-  <p align="center">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <!-- Normal flag, minimal age -->
+  <p>
+    <samp>🇮🇳 ・ 21</samp>
   </p>
 </div>
 
 ---
 
 <div align="center">
+  <!-- Modern, borderless "Currently" section -->
   <h2>
-    <img src="https://img.shields.io/badge/◉-CURRENTLY-38BDF8?style=for-the-badge&labelColor=1e293b" />
+    <img src="https://img.shields.io/badge/◉-CURRENTLY-38BDF8?style=for-the-badge&labelColor=0d1117" />
   </h2>
   
-  <blockquote>
-    <p align="center">
-      <samp>
-        <strong>Sample Efficiency Optimization</strong><br>
-        <em>reducing computational overhead while maximizing model performance</em>
-      </samp>
-    </p>
-  </blockquote>
+  <br>
+  
+  <!-- "Hot" modern text using crisp monospace rendering -->
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=1&color=E2E8F0&center=true&vCenter=true&width=450&lines=Sample+Efficiency+Optimization" />
+  </h3>
+  
+  <p>
+    <samp>reducing computational overhead while maximizing model performance</samp>
+  </p>
 </div>
 
 ---
 
 <div align="center">
-  <h3>
-    <img src="https://img.shields.io/badge/◆-ARSENAL-8B5CF6?style=for-the-badge&labelColor=1e293b" />
-  </h3>
+  <!-- Clean Arsenal section -->
+  <h2>
+    <img src="https://img.shields.io/badge/◆-ARSENAL-8B5CF6?style=for-the-badge&labelColor=0d1117" />
+  </h2>
   
-  <table align="center">
+  <br>
+  
+  <table>
     <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
-        <br>Python
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch" />
+        <br><samp>PyTorch</samp>
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="65" height="65" alt="PyTorch" />
-        <br>PyTorch
+      <td align="center" width="100">
+        <!-- Repaired, ultra-clean Linux icon -->
+        <img src="https://cdn.simpleicons.org/linux" width="55" height="55" alt="Linux" />
+        <br><samp>Linux</samp>
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="65" height="65" alt="Linux" />
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-        <br>Git
+      <td align="center" width="100">
+        <!-- Minimalist Math icon -->
+        <img src="https://img.shields.io/badge/∑-Math-8B5CF6?style=flat-square&labelColor=0d1117" width="55" height="55" alt="Mathematics" />
+        <br><samp>Mathematics</samp>
       </td>
     </tr>
   </table>
@@ -65,21 +70,22 @@
 ---
 
 <div align="center">
-  <h3>
-    <img src="https://img.shields.io/badge/◇-ACTIVITY-10B981?style=for-the-badge&labelColor=1e293b" />
-  </h3>
+  <!-- Minimalist footer quote -->
+  <p>
+    <samp>
+      <i>"fast and steady"</i>
+    </samp>
+  </p>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuro-py&bg_color=0d1117&color=38bdf8&line=38bdf8&point=8b5cf6&area=true&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <samp>
-    <i>"the goal is not to build bigger models, but smarter ones"</i>
-  </samp>
+  <br>
+  
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=yuro-py&style=flat-square&color=38BDF8&labelColor=0d1117" />
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=yuro-py&style=flat-square&color=38bdf8" />
+  <!-- Sleek portfolio link -->
+  <a href="https://yuro-py.github.io/index.html">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=38BDF8&labelColor=0d1117" />
+  </a>
 </div>
