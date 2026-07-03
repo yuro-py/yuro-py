@@ -52,7 +52,7 @@
         <br><samp>Linux</samp>
       </td>
       <td align="center" width="100">
-        <img src="https://api.iconify.design/mdi/math-pi.svg?color=%2393C5FD" width="55" height="55" alt="Mathematics" />
+        <img src="https://api.iconify.design/mdi/function-variant.svg?color=%2393C5FD" width="55" height="55" alt="Mathematics" />
         <br><samp>Mathematics</samp>
       </td>
     </tr>
