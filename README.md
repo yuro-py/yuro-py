@@ -1,6 +1,6 @@
 <div align="center">
   <h1>yuro</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&lines=hacking+reasoning;math+%E2%80%A2+research+%E2%80%A2+implementation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&background=000000&lines=hacking+reasoning;math+%E2%80%A2+research+%E2%80%A2+implementation" />
   
   🇮🇳 ・ 21
   
