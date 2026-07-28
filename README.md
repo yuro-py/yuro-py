@@ -4,7 +4,7 @@
   </h1>
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=18&duration=1&pause=1&color=94A3B8&center=true&vCenter=true&width=600&cursor=false&lines=hacking+reasoning+・+math+・+research+・+implementation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=18&duration=1&pause=1&color=94A3B8&center=true&vCenter=true&width=600&cursor=false&lines=Implementing+Papers+%E3%83%BB+PyTorch" />
   </p>
   
   <br>
