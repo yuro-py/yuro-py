@@ -24,11 +24,11 @@
   <br>
   
   <h3 style="color: #E2E8F0; font-family: 'JetBrains Mono', monospace; letter-spacing: 1px;">
-    Sample Efficiency Optimization
+    Attention / Optimizers
   </h3>
   
   <p style="color: #94A3B8;">
-    <samp>reducing computational overhead while maximizing model performance</samp>
+    <samp>implementing efficient attention mechanisms and optimizers from scratch</samp>
   </p>
 </div>
 
