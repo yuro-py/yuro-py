@@ -20,11 +20,11 @@
   <br><br>
 
   <h3>
-    <samp>Attention / Inference</samp>
+    <samp>vLLM internals</samp>
   </h3>
 
   <p>
-    <samp>papers from scratch — attention, caching, sparse tricks, decoding</samp>
+    <samp>scheduler · paged attention · continuous batching · kv cache</samp>
   </p>
 </div>
 
@@ -67,14 +67,14 @@
   <br><br>
 
   <a href="https://yuro-py.github.io/">
-    <img src="https://img.shields.io/badge/site-D9D5CB?style=flat-square&labelColor=060606" alt="portfolio" />
+    <img src="https://img.shields.io/badge/-website-A6302B?style=for-the-badge&logo=googlechrome&logoColor=D9D5CB" alt="website" />
   </a>
   &nbsp;
   <a href="https://x.com/yur_o_0">
-    <img src="https://img.shields.io/badge/x-D9D5CB?style=flat-square&labelColor=060606" alt="x" />
+    <img src="https://img.shields.io/badge/-x-A6302B?style=for-the-badge&logo=x&logoColor=D9D5CB" alt="x" />
   </a>
   &nbsp;
   <a href="https://huggingface.co/yuro-py">
-    <img src="https://img.shields.io/badge/hf-D9D5CB?style=flat-square&labelColor=060606" alt="huggingface" />
+    <img src="https://img.shields.io/badge/-hugging_face-A6302B?style=for-the-badge&logo=huggingface&logoColor=D9D5CB" alt="huggingface" />
   </a>
 </div>
