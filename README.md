@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <samp>🇮🇳 · 22 · 6'1</samp>
+    <samp>🇮🇳 · 22</samp>
   </p>
 </div>
 
