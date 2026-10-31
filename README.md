@@ -20,11 +20,11 @@
   <br><br>
 
   <h3>
-    <samp>vLLM internals</samp>
+    <samp>vLLM Project</samp>
   </h3>
 
   <p>
-    <samp>scheduler · paged attention · continuous batching · kv cache</samp>
+    <samp>Agentic Workload · Mixed Production Serving · Specialized Gateway on-top · SLA-class-aware routing · Hybrid KV caching</samp>
   </p>
 </div>
 
