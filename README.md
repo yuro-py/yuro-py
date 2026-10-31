@@ -4,7 +4,7 @@
   </h1>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=1&color=8B877D&center=true&vCenter=true&width=560&cursor=false&lines=Inference+Serving+&+Optimization" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=16&duration=1&pause=1&color=8B877D&center=true&vCenter=true&width=560&cursor=false&lines=Inference+Serving+and+Optimization" />
   </p>
 
   <p>
